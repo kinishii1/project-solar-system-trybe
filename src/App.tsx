@@ -1,6 +1,6 @@
-import Header from "./components/Header";
-import SolarSystem from "./components/SolarSystem";
-import Missions from "./components/Missions";
+import Header from './components/Header';
+import SolarSystem from './components/SolarSystem';
+import Missions from './components/Missions';
 
 function App() {
   return (
