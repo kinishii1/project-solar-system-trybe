@@ -5,9 +5,9 @@ import missions from '../data/missions';
 
 function Missions() {
   return (
-    <div data-testid="missions">
+    <div className="missions" data-testid="missions">
       <Title headline="Missões" />
-      <div>
+      <div className="missions-list">
         {missions.map((mission) => (
           <MissionCard
             key={ mission.name }

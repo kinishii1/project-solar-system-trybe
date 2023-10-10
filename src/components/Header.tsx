@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <h1>Sistema Solar</h1>
+      <h1 className="header-title">Sistema Solar</h1>
     </header>
   );
 }
