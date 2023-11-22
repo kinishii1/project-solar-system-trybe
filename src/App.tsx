@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Header from './components/Header';
 import SolarSystem from './components/SolarSystem';
 import Missions from './components/Missions';
